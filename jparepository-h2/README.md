@@ -1,6 +1,6 @@
 # JpaRepository: interface do Spring
 
-#### Antonio Veras
+#### Antônio Veras
 
 Siga-nos:
 
@@ -8,7 +8,7 @@ www.linkedin.com/in/antônio-js-veras-b6896647
 
 https://github.com/TONNYSAP
 
-## Trechos de codigo
+## Trechos de código
 
 ```
 spring.datasource.url=jdbc:h2:mem:testdb
