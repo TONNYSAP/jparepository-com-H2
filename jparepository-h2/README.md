@@ -102,3 +102,10 @@ public class UserController {
     Page<Users> findByNameContainingIgnoreCase(String name, Pageable pageable);
 }
 ```
+```localhost
+    http://localhost:8080/users/page?page=1
+    http://localhost:8080/users/page?page=0&size=10
+    http://localhost:8080/users/search-salary?minSalary=10000
+    http://localhost:8080/users/search-name?name=carlos
+
+```
